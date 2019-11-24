@@ -1,2 +1,2 @@
-# SentimentAnalysis
-Sentiment Analysis of reviews of Amazon's Alexa
+# Sentiment Analysis of reviews of Amazon's Alexa
+
